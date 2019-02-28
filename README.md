@@ -1,0 +1,4 @@
+# Network_Jammer
+
+Description: -
+Network jammer is a device will be used to jam the network of telecom devices of different frequency by changing the frequency at particular time so that we can jam the network of various devices as per their frequency. Earlier trying to jam the network at particular then trying it to change the frequency to jam particular network manually . After achieving that much future goal is to achieve that circuit which automatically change frequency by writing algorithm. The goal is to make a circuit with minimum cost so that it can be afforded for a good reason and can be installed at that  places where we can prevent the damage as we all know that terrorist used mobile to do explosion all we want the circuit is to be available at that places where bad things can be prevented.
